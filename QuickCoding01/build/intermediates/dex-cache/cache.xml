@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7a8c90436e30751e2e304c14bdd05603ecbc5a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_091a6f31aab656dddb98606614fe7e2109178810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_11d50c44ebe9e1cc1954a79bfbab673df7ff8e7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_34ad031a0508a690177ae68027605a6181417264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c0cf9bfb7bfc7a44639615660a51a8f89fd9189c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ea12b1414a0be8ecd1d73ee36dbca6c646a5e8a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a959b99cf163db6d7934329ec027f7871262720d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db0d81ed72f8cd30667a5d3c6439fdbe56ca3222">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e7db28d5a5644130f6e3670576fdda412237af4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9efef320bf1ed123fc5ceed25f58e58d2f140152\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_7f94d847872326e41669e43af06d03ce8ea0bf01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f7879ed4aeff0c260d0143b1a2c4d6525805de6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0e3da1aea5c8cc50d1d9b8c607bf166b3518dc06">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7006a89e3a2d79005f342eafc33acfd2f815ccc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a259e7f6ea32ba551c0740e04178ba61e0ca0633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0ad61f03d00e982f33629e15cab964c0a9a346ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5543d674914535a427111c12662e586333800e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c2efe5718b06a52e9d3f62e9c32be5f881f965b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\doyun\AndroidStudioProjects\QuickCoding01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9156c4e7888868eea1aacf4ad1f795855b33abfd\classes.dex" />
+    </item>
+
+</items>
