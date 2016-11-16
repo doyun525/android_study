@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MylocationLogger2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_addevent">일정추가</string>
+</resources>

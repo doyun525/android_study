@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.doyun.mylocationlogger2.MapsActivity">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <Button
+            android:text="이전"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/previousday"
+            android:layout_weight="0"
+            style="@style/Widget.AppCompat.Button.Small" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/textView"
+            android:layout_weight="50"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:gravity="center" />
+
+        <Button
+            android:text="다음"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nextday"
+            android:layout_weight="0"
+            style="@style/Widget.AppCompat.Button.Small" />
+    </LinearLayout>
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="1">
+
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_cycle"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:gravity="center"
+            android:textSize="34sp"
+            android:layout_weight="1" />
+
+        <Button
+            android:text="주기 설정"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cycleSetting"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <ToggleButton
+            android:text="GPS Off"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/gpsToggle"
+            />
+        <Button
+            android:text="화면갱신"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/mapRenew"
+            />
+
+        <Button
+            android:text="DB Delet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/DBDelet"
+            android:elevation="0dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
